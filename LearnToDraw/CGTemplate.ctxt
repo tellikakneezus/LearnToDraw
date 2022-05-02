@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CGTemplate()
+comment0.text=Constructor\ to\ set\ up\ the\ GUI\ components
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=Entry\ main\ method
+comment2.params=
+comment2.target=void\ run()
+numComments=3

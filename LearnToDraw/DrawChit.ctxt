@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DrawChit()
+comment1.params=myDrawable
+comment1.target=void\ addMyDrawable(MyDrawable)
+comment2.params=
+comment2.target=java.awt.Dimension\ getPreferredSize()
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=
+comment4.target=void\ clearAll()
+comment5.params=
+comment5.target=void\ createAndShowGui()
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment8.params=
+comment8.target=void\ run()
+numComments=9

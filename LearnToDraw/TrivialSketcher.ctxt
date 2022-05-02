@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=TrivialSketcher
+comment1.params=
+comment1.target=TrivialSketcher()
+comment1.text=\r\n\ Constructs\ a\ panel,\ registering\ listeners\ for\ the\ mouse.\r\n
+comment2.params=
+comment2.target=void\ init()
+comment3.params=e
+comment3.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment4.params=e
+comment4.target=void\ mouseReleased(java.awt.event.MouseEvent)
+comment5.params=e
+comment5.target=void\ mouseDragged(java.awt.event.MouseEvent)
+comment6.params=g
+comment6.target=void\ paintComponent(java.awt.Graphics)
+comment7.params=g\ x\ y\ diameter
+comment7.target=void\ drawCenteredCircle(java.awt.Graphics,\ int,\ int,\ int)
+comment8.params=firstPoint\ secondPoint
+comment8.target=int\ distanceBtwPoints(java.awt.Point,\ java.awt.Point)
+numComments=9

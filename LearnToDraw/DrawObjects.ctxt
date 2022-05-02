@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DrawObjects()
+comment1.params=
+comment1.target=void\ init()
+comment2.params=m
+comment2.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment3.params=m
+comment3.target=void\ mouseReleased(java.awt.event.MouseEvent)
+comment4.params=m
+comment4.target=void\ mouseDragged(java.awt.event.MouseEvent)
+comment5.params=arg
+comment5.target=void\ setType(int)
+comment6.params=g
+comment6.target=void\ paintComponent(java.awt.Graphics)
+numComments=7

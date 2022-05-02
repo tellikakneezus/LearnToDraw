@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PadDraw()
+comment1.params=e
+comment1.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment2.params=e
+comment2.target=void\ mouseDragged(java.awt.event.MouseEvent)
+comment3.params=g
+comment3.target=void\ paintComponent(java.awt.Graphics)
+comment4.params=
+comment4.target=void\ clear()
+comment5.params=
+comment5.target=void\ red()
+comment6.params=
+comment6.target=void\ black()
+comment7.params=
+comment7.target=void\ magenta()
+comment8.params=
+comment8.target=void\ blue()
+comment9.params=
+comment9.target=void\ green()
+numComments=10
